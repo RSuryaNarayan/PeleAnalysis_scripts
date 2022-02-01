@@ -1,0 +1,4 @@
+infile = plt_02898 
+outfile = plt_02898_sdr
+Aux_Variables = alpha
+is_per = 1 1 0

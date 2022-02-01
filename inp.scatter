@@ -1,0 +1,4 @@
+Output_Variables=Z(mixture_fraction) Temp Y(CH3OCH2O2) Y(OCH2OCHO) Y(CH2O) heatRelease density sdr(mixture_fraction)
+Output_Format=dat
+Plot_File=plt_02898_Combined
+Output_File=scatter.dat
