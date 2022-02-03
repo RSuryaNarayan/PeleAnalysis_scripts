@@ -2,7 +2,7 @@
 
 # begin post-processing
 ls -d plt* >plotfiles.txt
-cores = "4"
+declare -i cores=4
 #Iterate over the plot files 
 while IFS= read -r pltfile; do
 	echo "${r}=================================================${nc}"
